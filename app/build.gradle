@@ -3,10 +3,10 @@ plugins {
 }
 
 android {
-    namespace 'nochargeanim'
+    namespace 'com.nochargeanim.app'
     compileSdk 34
     defaultConfig {
-        applicationId 'nochargeanim'
+        applicationId 'com.nochargeanim.app'
         minSdk 26
         targetSdk 34
         versionCode 1
